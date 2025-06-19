@@ -1,7 +1,7 @@
 # zeek-log-tools
 Tools for working with Zeek logs
 
-##exract-from-zeek.sh
+##extract-from-zeek.sh
 Quickstart: download the file, place in your path, and make executable
 
 ###To run:
